@@ -1,10 +1,10 @@
 <div style="text-align: center;">
 
-![Niobe Labs](../assets/black_armory.jpg)
+<img src="../assets/black_armory.jpg" alt="Niobe Labs">
 
-# Niobe Labs
+<h1 style="text-align:center;" class="center">Niobe Labs</h1>
 
-Niobe Labs is a developer project by Alexander Carr and Griffin Schenker.  The repositories and work completed within this organization are for personal use only.  If you are interested in any of our work feel free to reach out!
+<p style="text-align:center;">Niobe Labs is a developer project by Alexander Carr and Griffin Schenker.  The repositories and work completed within this organization are for personal use only.  If you are interested in any of our work feel free to reach out!</p>
 
 </div>
 
