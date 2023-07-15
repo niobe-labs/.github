@@ -2,9 +2,9 @@
 
 <img src="../assets/black_armory.jpg" alt="Niobe Labs">
 
-<h1 style="text-align:center;" class="center">Niobe Labs</h1>
+<h1 style="text-align: center;" class="center">Niobe Labs</h1>
 
-<p style="text-align:center;">Niobe Labs is a developer project by Alexander Carr and Griffin Schenker.  The repositories and work completed within this organization are for personal use only.  If you are interested in any of our work feel free to reach out!</p>
+<p style="text-align: center;">Niobe Labs is a developer project by Alexander Carr and Griffin Schenker.  The repositories and work completed within this organization are for personal use only.  If you are interested in any of our work feel free to reach out!</p>
 
 </div>
 
@@ -14,29 +14,11 @@
 
 <br>
 
-<style>
-.row {
-  display: flex;
-}
-
-.column {
-  float: left;
-}
-
-.left {
-  width: 25%;
-}
-
-.right {
-  width: 75%;
-}
-</style>
-
-<div class="row">
-  <div class="column left">
+<div class="row" style="display: flex;">
+  <div class="column" style="float: left; width: 25%; text-align: center;">
     <a href="https://github.com/JAlexanderCarr"><img src="https://avatars.githubusercontent.com/u/48697367" alt="Alexander Carr" style="border-radius: 50%;" width="100"></a>
   </div>
-  <div class="column right">
+  <div class="column" style="float: left; width: 75%;">
     <p><b>Alexander Carr</b></p>
     <p><a href=https://jalexandercarr.github.io>Website</a></p>
     <p><a href=https://www.linkedin.com/in/jalexandercarr>LinkedIn</a></p>
@@ -45,11 +27,11 @@
 
 <br>
 
-<div class="row">
-  <div class="column left">
+<div class="row" style="display: flex;">
+  <div class="column" style="float: left; width: 25%; text-align: center;">
     <a href="https://github.com/gsschenker"><img src="https://avatars.githubusercontent.com/u/101217147" alt="Alexander Carr" style="border-radius: 50%;" width="100"></a>
   </div>
-  <div class="column right">
+  <div class="column" style="float: left; width: 75%;">
     <p><b>Griffin Schenker</b></p>
     <p><a href=https://gsschenker.github.io>Website</a></p>
     <p><a href=https://www.linkedin.com/in/griffin-schenker>LinkedIn</a></p>
