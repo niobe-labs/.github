@@ -1,4 +1,4 @@
-![Niobe Labs](../assets/black_armory.jpg)
+![Niobe Labs](https://github.com/niobe-labs/.github/raw/master/assets/black_armory.jpg)
 
 # Niobe Labs
 
