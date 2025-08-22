@@ -2,4 +2,4 @@
 
 # Niobe Labs
 
-Niobe Labs is a developer project by Alexander Carr and Griffin Schenker.  The repositories and work completed within this organization are for personal use only.  If you are interested in any of our work feel free to reach out!
+Niobe Labs is a developer org founded by Alexander Carr.  The repositories and work completed within this organization are for personal use only.  If you are interested in any of our work feel free to reach out!
