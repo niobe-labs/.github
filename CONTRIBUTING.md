@@ -150,9 +150,10 @@ the rule locally.
 
 ### Configuration
 
-- Read environment variables in exactly one place — a service's
-  `internal/config` (go-sdk: `internal/envutil`) — and pass values through a
-  `Config` **[lint: forbidigo `os.Getenv`]**.
+- Read service configuration from environment variables in one place — a
+  service's `internal/config` (go-sdk: `internal/envutil`) — and pass values
+  through a `Config` **[review]**. Ad-hoc reads are fine where they aren't
+  service configuration, e.g. a test re-running itself as a subprocess.
 - A set-but-malformed value is a startup error, not a silent fallback to the
   default **[review]**.
 - Never hardcode secrets; read them from the environment or a mounted file
